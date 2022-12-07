@@ -1,0 +1,39 @@
+* {
+    font-family: Papyrus, Georgia, "Times New Roman";
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.description  {
+    text-align: center;
+    font-size: 16px;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    height: 450px;
+    border-radius: 10%;
+    border-style: dashed;
+}
+
+.ingredients, .directions, .tips-heading, .links-heading {
+    font-size: 16px;
+}
+
+.ingredients-list {
+    font-size: 10px;
+}
+
+.directions {
+    font-size: 16px;
+}
+
+.tips, .links {
+    font-size: 12px;
+}
